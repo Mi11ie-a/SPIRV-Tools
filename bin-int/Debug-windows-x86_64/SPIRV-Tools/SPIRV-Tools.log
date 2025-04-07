@@ -1,1 +1,875 @@
-﻿
+﻿  assembly_grammar.cpp
+  binary.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/assembly_grammar.cpp')
+  
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/binary.cpp')
+  
+  diagnostic.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/diagnostic.cpp')
+  
+  diff.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/diff/diff.cpp')
+  
+  disassemble.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/disassemble.cpp')
+  
+  enum_string_mapping.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/enum_string_mapping.cpp')
+  
+  ext_inst.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/ext_inst.cpp')
+  
+  extensions.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/extensions.cpp')
+  
+  libspirv.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/libspirv.cpp')
+  
+  linker.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/link/linker.cpp')
+  
+  divergence_analysis.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/lint/divergence_analysis.cpp')
+  
+  lint_divergent_derivatives.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/lint/lint_divergent_derivatives.cpp')
+  
+  linter.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/lint/linter.cpp')
+  
+  name_mapper.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/name_mapper.cpp')
+  
+  opcode.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opcode.cpp')
+  
+  operand.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/operand.cpp')
+  
+  aggressive_dead_code_elim_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/aggressive_dead_code_elim_pass.cpp')
+  
+  amd_ext_to_khr.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/amd_ext_to_khr.cpp')
+  
+  analyze_live_input_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/analyze_live_input_pass.cpp')
+  
+  basic_block.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/basic_block.cpp')
+  
+  Generating Code...
+  Compiling...
+  block_merge_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/block_merge_pass.cpp')
+  
+  block_merge_util.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/block_merge_util.cpp')
+  
+  build_module.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/build_module.cpp')
+  
+  ccp_pass.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/ccp_pass.cpp')
+  
+  cfg.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/cfg.cpp')
+  
+  cfg_cleanup_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/cfg_cleanup_pass.cpp')
+  
+  code_sink.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/code_sink.cpp')
+  
+  combine_access_chains.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/combine_access_chains.cpp')
+  
+  compact_ids_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/compact_ids_pass.cpp')
+  
+  composite.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/composite.cpp')
+  
+  const_folding_rules.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/const_folding_rules.cpp')
+  
+  constants.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/constants.cpp')
+  
+  control_dependence.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/control_dependence.cpp')
+  
+  convert_to_half_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/convert_to_half_pass.cpp')
+  
+  convert_to_sampled_image_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/convert_to_sampled_image_pass.cpp')
+  
+  copy_prop_arrays.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/copy_prop_arrays.cpp')
+  
+  dataflow.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/dataflow.cpp')
+  
+  dead_branch_elim_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/dead_branch_elim_pass.cpp')
+  
+  dead_insert_elim_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/dead_insert_elim_pass.cpp')
+  
+  dead_variable_elimination.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/dead_variable_elimination.cpp')
+  
+  Generating Code...
+  Compiling...
+  debug_info_manager.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/debug_info_manager.cpp')
+  
+  decoration_manager.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/decoration_manager.cpp')
+  
+  def_use_manager.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/def_use_manager.cpp')
+  
+  desc_sroa.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/desc_sroa.cpp')
+  
+  desc_sroa_util.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/desc_sroa_util.cpp')
+  
+  dominator_analysis.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/dominator_analysis.cpp')
+  
+  dominator_tree.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/dominator_tree.cpp')
+  
+  eliminate_dead_constant_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/eliminate_dead_constant_pass.cpp')
+  
+  eliminate_dead_functions_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/eliminate_dead_functions_pass.cpp')
+  
+  eliminate_dead_functions_util.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/eliminate_dead_functions_util.cpp')
+  
+  eliminate_dead_io_components_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/eliminate_dead_io_components_pass.cpp')
+  
+  eliminate_dead_members_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/eliminate_dead_members_pass.cpp')
+  
+  eliminate_dead_output_stores_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/eliminate_dead_output_stores_pass.cpp')
+  
+  feature_manager.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/feature_manager.cpp')
+  
+  fix_func_call_arguments.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/fix_func_call_arguments.cpp')
+  
+  fix_storage_class.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/fix_storage_class.cpp')
+  
+  flatten_decoration_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/flatten_decoration_pass.cpp')
+  
+  fold.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/fold.cpp')
+  
+  fold_spec_constant_op_and_composite_pass.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/fold_spec_constant_op_and_composite_pass.cpp')
+  
+  folding_rules.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/folding_rules.cpp')
+  
+  Generating Code...
+  Compiling...
+  freeze_spec_constant_value_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/freeze_spec_constant_value_pass.cpp')
+  
+  function.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/function.cpp')
+  
+  graphics_robust_access_pass.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/graphics_robust_access_pass.cpp')
+  
+  if_conversion.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/if_conversion.cpp')
+  
+  inline_exhaustive_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/inline_exhaustive_pass.cpp')
+  
+  inline_opaque_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/inline_opaque_pass.cpp')
+  
+  inline_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/inline_pass.cpp')
+  
+  inst_bindless_check_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/inst_bindless_check_pass.cpp')
+  
+  inst_buff_addr_check_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/inst_buff_addr_check_pass.cpp')
+  
+  inst_debug_printf_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/inst_debug_printf_pass.cpp')
+  
+  instruction.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/instruction.cpp')
+  
+  instruction_list.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/instruction_list.cpp')
+  
+  instrument_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/instrument_pass.cpp')
+  
+  interface_var_sroa.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/interface_var_sroa.cpp')
+  
+  interp_fixup_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/interp_fixup_pass.cpp')
+  
+  invocation_interlock_placement_pass.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/invocation_interlock_placement_pass.cpp')
+  
+  ir_context.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/ir_context.cpp')
+  
+  ir_loader.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/ir_loader.cpp')
+  
+  licm_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/licm_pass.cpp')
+  
+  liveness.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/liveness.cpp')
+  
+  Generating Code...
+  Compiling...
+  local_access_chain_convert_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/local_access_chain_convert_pass.cpp')
+  
+  local_redundancy_elimination.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/local_redundancy_elimination.cpp')
+  
+  local_single_block_elim_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/local_single_block_elim_pass.cpp')
+  
+  local_single_store_elim_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/local_single_store_elim_pass.cpp')
+  
+  loop_dependence.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/loop_dependence.cpp')
+  
+  loop_dependence_helpers.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/loop_dependence_helpers.cpp')
+  
+  loop_descriptor.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/loop_descriptor.cpp')
+  
+  loop_fission.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/loop_fission.cpp')
+  
+  loop_fusion.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/loop_fusion.cpp')
+  
+  loop_fusion_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/loop_fusion_pass.cpp')
+  
+  loop_peeling.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/loop_peeling.cpp')
+  
+  loop_unroller.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/loop_unroller.cpp')
+  
+  loop_unswitch_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/loop_unswitch_pass.cpp')
+  
+  loop_utils.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/loop_utils.cpp')
+  
+  mem_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/mem_pass.cpp')
+  
+  merge_return_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/merge_return_pass.cpp')
+  
+  modify_maximal_reconvergence.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/modify_maximal_reconvergence.cpp')
+  
+  module.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/module.cpp')
+  
+  optimizer.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\charconv(12): warning STL4038: The contents of <charconv> are available only with C++17 or later.
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/optimizer.cpp')
+  
+  pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/pass.cpp')
+  
+  Generating Code...
+  Compiling...
+  pass_manager.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/pass_manager.cpp')
+  
+  pch_source_opt.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/pch_source_opt.cpp')
+  
+  private_to_local_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/private_to_local_pass.cpp')
+  
+  propagator.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/propagator.cpp')
+  
+  reduce_load_size.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/reduce_load_size.cpp')
+  
+  redundancy_elimination.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/redundancy_elimination.cpp')
+  
+  register_pressure.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/register_pressure.cpp')
+  
+  relax_float_ops_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/relax_float_ops_pass.cpp')
+  
+  remove_dontinline_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/remove_dontinline_pass.cpp')
+  
+  remove_duplicates_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/remove_duplicates_pass.cpp')
+  
+  remove_unused_interface_variables_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/remove_unused_interface_variables_pass.cpp')
+  
+  replace_desc_array_access_using_var_index.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/replace_desc_array_access_using_var_index.cpp')
+  
+  replace_invalid_opc.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/replace_invalid_opc.cpp')
+  
+  scalar_analysis.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/scalar_analysis.cpp')
+  
+  scalar_analysis_simplification.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/scalar_analysis_simplification.cpp')
+  
+  scalar_replacement_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/scalar_replacement_pass.cpp')
+  
+  set_spec_constant_default_value_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/set_spec_constant_default_value_pass.cpp')
+  
+  simplification_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/simplification_pass.cpp')
+  
+  spread_volatile_semantics.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/spread_volatile_semantics.cpp')
+  
+  ssa_rewrite_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/ssa_rewrite_pass.cpp')
+  
+  Generating Code...
+  Compiling...
+  strength_reduction_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/strength_reduction_pass.cpp')
+  
+  strip_debug_info_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/strip_debug_info_pass.cpp')
+  
+  strip_nonsemantic_info_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/strip_nonsemantic_info_pass.cpp')
+  
+  struct_cfg_analysis.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/struct_cfg_analysis.cpp')
+  
+  switch_descriptorset_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/switch_descriptorset_pass.cpp')
+  
+  trim_capabilities_pass.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\optional(11): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/trim_capabilities_pass.cpp')
+  
+  type_manager.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/type_manager.cpp')
+  
+  types.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/types.cpp')
+  
+  unify_const_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/opt/unify_const_pass.cpp')
+  
+  upgrade_memory_model.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/upgrade_memory_model.cpp')
+  
+  value_number_table.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/value_number_table.cpp')
+  
+  vector_dce.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/vector_dce.cpp')
+  
+  workaround1209.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/workaround1209.cpp')
+  
+  wrap_opkill.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/opt/wrap_opkill.cpp')
+  
+  parsed_operand.cpp
+  pch_source.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/pch_source.cpp')
+  
+  print.cpp
+  change_operand_reduction_opportunity.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/reduce/change_operand_reduction_opportunity.cpp')
+  
+  change_operand_to_undef_reduction_opportunity.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/reduce/change_operand_to_undef_reduction_opportunity.cpp')
+  
+  conditional_branch_to_simple_conditional_branch_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/conditional_branch_to_simple_conditional_branch_opportunity_finder.cpp')
+  
+  Generating Code...
+  Compiling...
+  conditional_branch_to_simple_conditional_branch_reduction_opportunity.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/reduce/conditional_branch_to_simple_conditional_branch_reduction_opportunity.cpp')
+  
+  merge_blocks_reduction_opportunity.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/reduce/merge_blocks_reduction_opportunity.cpp')
+  
+  merge_blocks_reduction_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/merge_blocks_reduction_opportunity_finder.cpp')
+  
+  operand_to_const_reduction_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/operand_to_const_reduction_opportunity_finder.cpp')
+  
+  operand_to_dominating_id_reduction_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/operand_to_dominating_id_reduction_opportunity_finder.cpp')
+  
+  operand_to_undef_reduction_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/operand_to_undef_reduction_opportunity_finder.cpp')
+  
+  pch_source_reduce.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/reduce/pch_source_reduce.cpp')
+  
+  reducer.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/reducer.cpp')
+  
+  reduction_opportunity.cpp
+  reduction_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/reduction_opportunity_finder.cpp')
+  
+  reduction_pass.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/reduction_pass.cpp')
+  
+  reduction_util.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/reduction_util.cpp')
+  
+  remove_block_reduction_opportunity.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/reduce/remove_block_reduction_opportunity.cpp')
+  
+  remove_block_reduction_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/reduce/remove_block_reduction_opportunity_finder.cpp')
+  
+  remove_function_reduction_opportunity.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/reduce/remove_function_reduction_opportunity.cpp')
+  
+  remove_function_reduction_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/remove_function_reduction_opportunity_finder.cpp')
+  
+  remove_instruction_reduction_opportunity.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/reduce/remove_instruction_reduction_opportunity.cpp')
+  
+  remove_selection_reduction_opportunity.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/reduce/remove_selection_reduction_opportunity.cpp')
+  
+  remove_selection_reduction_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/remove_selection_reduction_opportunity_finder.cpp')
+  
+  remove_struct_member_reduction_opportunity.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/reduce/remove_struct_member_reduction_opportunity.cpp')
+  
+  Generating Code...
+  Compiling...
+  remove_unused_instruction_reduction_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/remove_unused_instruction_reduction_opportunity_finder.cpp')
+  
+  remove_unused_struct_member_reduction_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/remove_unused_struct_member_reduction_opportunity_finder.cpp')
+  
+  simple_conditional_branch_to_branch_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/simple_conditional_branch_to_branch_opportunity_finder.cpp')
+  
+  simple_conditional_branch_to_branch_reduction_opportunity.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/reduce/simple_conditional_branch_to_branch_reduction_opportunity.cpp')
+  
+  structured_construct_to_block_reduction_opportunity.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/structured_construct_to_block_reduction_opportunity.cpp')
+  
+  structured_construct_to_block_reduction_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/structured_construct_to_block_reduction_opportunity_finder.cpp')
+  
+  structured_loop_to_selection_reduction_opportunity.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\opt\instruction.h(25,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  (compiling source file 'source/reduce/structured_loop_to_selection_reduction_opportunity.cpp')
+  
+  structured_loop_to_selection_reduction_opportunity_finder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/reduce/structured_loop_to_selection_reduction_opportunity_finder.cpp')
+  
+  software_version.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\software_version.cpp(20,10): error C1083: Cannot open include file: 'build-version.inc': No such file or directory
+  spirv_endian.cpp
+  table.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/table.cpp')
+  
+  text.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/text.cpp')
+  
+  text_handler.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/text_handler.cpp')
+  
+  bit_vector.cpp
+  construct.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/construct.cpp')
+  
+  validate.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate.cpp')
+  
+  validate_adjacency.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_adjacency.cpp')
+  
+  validate_annotation.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_annotation.cpp')
+  
+  validate_arithmetics.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_arithmetics.cpp')
+  
+  validate_atomics.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_atomics.cpp')
+  
+  Generating Code...
+  Compiling...
+  validate_barriers.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_barriers.cpp')
+  
+  validate_bitwise.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_bitwise.cpp')
+  
+  validate_builtins.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_builtins.cpp')
+  
+  validate_capability.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_capability.cpp')
+  
+  validate_cfg.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_cfg.cpp')
+  
+  validate_composites.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_composites.cpp')
+  
+  validate_constants.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_constants.cpp')
+  
+  validate_conversion.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_conversion.cpp')
+  
+  validate_debug.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_debug.cpp')
+  
+  validate_decorations.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_decorations.cpp')
+  
+  validate_derivatives.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_derivatives.cpp')
+  
+  validate_execution_limitations.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_execution_limitations.cpp')
+  
+  validate_extensions.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\val\validate_extensions.cpp(21,10): error C1083: Cannot open include file: 'NonSemanticShaderDebugInfo100.h': No such file or directory
+  validate_function.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_function.cpp')
+  
+  validate_id.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_id.cpp')
+  
+  validate_image.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_image.cpp')
+  
+  validate_instruction.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_instruction.cpp')
+  
+  validate_interfaces.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_interfaces.cpp')
+  
+  validate_layout.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\val\validate_layout.cpp(17,10): error C1083: Cannot open include file: 'DebugInfo.h': No such file or directory
+  validate_literals.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_literals.cpp')
+  
+  Generating Code...
+  Compiling...
+  validate_logicals.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_logicals.cpp')
+  
+  validate_memory.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_memory.cpp')
+  
+  validate_memory_semantics.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_memory_semantics.cpp')
+  
+  validate_mesh_shading.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_mesh_shading.cpp')
+  
+  validate_misc.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_misc.cpp')
+  
+  validate_mode_setting.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_mode_setting.cpp')
+  
+  validate_non_uniform.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_non_uniform.cpp')
+  
+  validate_primitives.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_primitives.cpp')
+  
+  validate_ray_query.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_ray_query.cpp')
+  
+  validate_ray_tracing.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_ray_tracing.cpp')
+  
+  validate_ray_tracing_reorder.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_ray_tracing_reorder.cpp')
+  
+  validate_scopes.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_scopes.cpp')
+  
+  validate_small_type_uses.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_small_type_uses.cpp')
+  
+  validate_type.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validate_type.cpp')
+  
+  validation_state.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\extensions.h(28,10): error C1083: Cannot open include file: 'extension_enum.inc': No such file or directory
+  (compiling source file 'source/val/validation_state.cpp')
+  
+  spirv-tools.cpp
+C:\dev\Vexal\Vexal\vendor\SPIRV-Tools\source\wasm\spirv-tools.cpp(21,10): error C1083: Cannot open include file: 'emscripten/bind.h': No such file or directory
+  Generating Code...

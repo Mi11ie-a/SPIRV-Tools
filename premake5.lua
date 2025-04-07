@@ -7,7 +7,14 @@ project "SPIRV-Tools"
 
 	files
 	{
-	
+		"source/**.cpp",
+		"source/**.h"
+	}
+
+	removefiles
+	{
+		"source/fuzz/**.cpp",
+		"source/fuzz/**.h"
 	}
 
     defines
@@ -16,7 +23,15 @@ project "SPIRV-Tools"
 
     includedirs
     {
+		"",
+		"include",
+		"../SPIRV-Headers/include"
     }
+
+	links
+	{
+		"glslang"
+	}
 
 	filter "system:windows"
 		systemversion "latest"
